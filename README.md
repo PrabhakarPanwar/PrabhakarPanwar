@@ -31,11 +31,11 @@
 ### 📝 [Task Management ](https://task-management-r5rg.onrender.com)
 > A simple Task Management Web App built with the MERN stack (MongoDB, Express, React, Node.js).
 
-🔐 User Authentication (Register / Login with JWT)
-📝 Create, Read, Update, Delete tasks
-🔄 Toggle task status (pending / completed)
-📱 Responsive design with Tailwind CSS
-⚡ Protected routes (only logged-in users can access tasks)
+-🔐 User Authentication (Register / Login with JWT)
+-📝 Create, Read, Update, Delete tasks
+-🔄 Toggle task status (pending / completed)
+-📱 Responsive design with Tailwind CSS
+-⚡ Protected routes (only logged-in users can access tasks)
 
 ### 🍴 [Fork & Sticks](https://forkandsticks.in)
 > React · Tailwind CSS · Responsive Design
